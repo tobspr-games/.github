@@ -3,7 +3,7 @@
 
 We are a small indie game studio and publisher from Germany. We are currently working on a prototype for shapez 2!
 
-## Upcoming Games
+## What we are currently working on
 - [Shapez 2](https://tobspr.io/shapez-2/)
 
 ## Released Games
